@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Noa</h1>
 <h3 align="center">Junior DevOps Engineer</h3>
 
-- 🌱 I’m currently studying **for AWS Cloud Practitioner**
+- 🌱 I’m currently studying **for AWS Cloud Practitioner** and learning Terraform
 
 - 👨‍💻 All of my projects are available at [https://github.com/NoaBenHamo](https://github.com/NoaBenHamo)
 
