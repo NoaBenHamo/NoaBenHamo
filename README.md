@@ -17,6 +17,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noabenhamo&show_icons=true&locale=en&layout=compact" alt="noabenhamo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noabenhamo&show_icons=true&locale=en" alt="noabenhamo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noabenhamo&" alt="noabenhamo" /></p>
