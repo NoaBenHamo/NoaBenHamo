@@ -7,6 +7,8 @@
 
 - 📄 Know about my experience [https://www.linkedin.com/in/noabenhamo/](https://www.linkedin.com/in/noabenhamo/)
 
+- 📝 Check out my recent project https://github.com/NoaBenHamo/status-page.git
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/noabenhamo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noabenhamo" height="30" width="40" /></a>
