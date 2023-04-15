@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noabenhamo&label=Profile%20views&color=0e75b6&style=plastic" alt="noabenhamo" /> </p>
 
-- 🌱 Certified AWS Cloud Practitioner
+- 📝 Certified AWS Cloud Practitioner
 
 - 📄 Know about my experience [https://www.linkedin.com/in/noabenhamo/](https://www.linkedin.com/in/noabenhamo/)
 
-- 📝 Check out my recent project https://github.com/NoaBenHamo/status-page.git
+- 📝 Check out my recent project: https://github.com/NoaBenHamo/status-page.git
+
+- 🌱 Currently working on this project: https://github.com/NoaBenHamo/Flask-App-on-ECS-Mini-Project.git
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
