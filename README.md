@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noabenhamo&label=Profile%20views&color=0e75b6&style=plastic" alt="noabenhamo" /> </p>
 
-- 🌱 I’m currently learning Terraform and studying for the AWS Cloud Practitioner certification exam.
+- 🌱 Certified AWS Cloud Practitioner
 
 - 📄 Know about my experience [https://www.linkedin.com/in/noabenhamo/](https://www.linkedin.com/in/noabenhamo/)
 
