@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Noa</h1>
 <h3 align="center">Junior DevOps Engineer and a Cloud Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noabenhamo&label=Profile%20views&color=0e75b6&style=plastic" alt="noabenhamo" /> </p>
-
 - 📝 Certified AWS Cloud Practitioner
 
-- 📄 Know about my experience [https://www.linkedin.com/in/noabenhamo/](https://www.linkedin.com/in/noabenhamo/)
+- 📄 Know about my experience: [https://www.linkedin.com/in/noabenhamo/](https://www.linkedin.com/in/noabenhamo/)
 
 - 📝 Check out my recent project: https://github.com/NoaBenHamo/status-page.git
 
