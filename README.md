@@ -7,7 +7,7 @@
 
 - 📝 Check out my recent project: https://github.com/NoaBenHamo/status-page.git
 
-- 🌱 Currently working on this project: https://github.com/NoaBenHamo/Flask-App-on-ECS-Mini-Project.git
+- 🌱 Currently deepening my knowledge of Kubernetes :)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
