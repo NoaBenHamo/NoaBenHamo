@@ -7,7 +7,7 @@
 
 - 📝 Check out my recent project: https://github.com/NoaBenHamo/status-page.git
 
-- 🌱 Currently deepening my knowledge of Kubernetes :)
+- 🌱 Currently learning and improving my understanding of Kubernetes :)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
