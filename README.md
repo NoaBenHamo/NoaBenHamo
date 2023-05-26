@@ -3,8 +3,6 @@
 
 - 📝 Certified AWS Cloud Practitioner
 
-- 📄 Know about my experience: [https://www.linkedin.com/in/noabenhamo/](https://www.linkedin.com/in/noabenhamo/)
-
 - 📝 Check out my recent project: https://github.com/NoaBenHamo/status-page.git
 
 - 🌱 Currently learning and improving my understanding of Kubernetes :)
